@@ -93,31 +93,31 @@ A prescriptive module that suggests exact order quantities within a fixed budget
 
 ## Dashboard Overview
 
-![Dashboard](assets/images/Inventory-Dashboard.png)
+![Dashboard](assets/Inventory-Dashboard.png)
 
 ---
 
 ## Demand Forecasting
 
-![Forecast](assets/images/Timeseries_forecast.png)
+![Forecast](assets/Timeseries_forecast.png)
 
 ---
 
 ## Customer Churn Prediction
 
-![Churn](assets/images/Churn_prediction.png)
+![Churn](assets/Churn_prediction.png)
 
 ---
 
 ## Customer Segmentation
 
-![Segmentation](assets/images/Customer_segmentation.png)
+![Segmentation](assets/Customer_segmentation.png)
 
 ---
 
 ## Critical Inventory Products
 
-![Inventory](assets/images/Critical_product.png)
+![Inventory](assets/Critical_product.png)
 
 ---
 
