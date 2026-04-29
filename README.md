@@ -89,17 +89,35 @@ A prescriptive module that suggests exact order quantities within a fixed budget
 
 ## 📸 Screenshots
 
-| Dashboard Overview | Sales Forecasting |
-| :---: | :---: |
-| ![Dashboard](images/dashboard.png) | ![Forecast](images/forecast.png) |
+# RetailPulse AI Dashboard
 
-| Churn Prediction | Customer Segmentation |
-| :---: | :---: |
-| ![Churn](images/churn.png) | ![Segmentation](images/segmentation.png) |
+## Dashboard Overview
 
-| Inventory Optimization |
-| :---: |
-| ![Inventory](images/inventory.png) |
+![Dashboard](assets/images/Inventory-Dashboard.png)
+
+---
+
+## Demand Forecasting
+
+![Forecast](assets/images/Timeseries_forecast.png)
+
+---
+
+## Customer Churn Prediction
+
+![Churn](assets/images/Churn_prediction.png)
+
+---
+
+## Customer Segmentation
+
+![Segmentation](assets/images/Customer_segmentation.png)
+
+---
+
+## Critical Inventory Products
+
+![Inventory](assets/images/Critical_product.png)
 
 ---
 
@@ -152,7 +170,7 @@ A prescriptive module that suggests exact order quantities within a fixed budget
 **Parth Bhalani**  
 *Aspiring Data Scientist | Machine Learning Enthusiast*
 
-- 📧 [Email](mailto:parthbhalani@example.com)
+- 📧 [Email](mailto:parthbhalani765@gmail.com)
 - 💼 [LinkedIn](https://linkedin.com/in/parthbhalani)
 - 🐙 [GitHub](https://github.com/ParthBhalani016)
 
