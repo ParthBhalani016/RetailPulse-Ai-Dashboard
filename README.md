@@ -170,7 +170,7 @@ A prescriptive module that suggests exact order quantities within a fixed budget
 **Parth Bhalani**  
 *Aspiring Data Scientist | Machine Learning Enthusiast*
 
-- 📧 [Email](parthbhalani765@gmail.com)
+- 📧 [Email](mailto:parthbhalani765@gmail.com)
 - 💼 [LinkedIn](https://linkedin.com/in/parthbhalani)
 - 🐙 [GitHub](https://github.com/ParthBhalani016)
 
